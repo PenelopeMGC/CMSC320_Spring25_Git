@@ -6,3 +6,8 @@ Answer: We may consider using Git due to its usefullness when multiple people wa
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to the field of finance to gather crucial financial data to better serve clients. As an example, if a wealth management firm wants to give accurate advice concerning cost of living for those looking to retire, they can use data science to give an informed guess on what the cost of living will be like based on historic data.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging is a non-destructive operation, which merges the history of a main and another branch without changing the existing branches. Rebase takes the main branch and the other branch and rewrites both into one branch, the history is tampered with making it difficult to recover because new commits are made for each commit.
+Source: https://www.atlassian.com/git/tutorials/merging-vs-rebasing
