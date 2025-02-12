@@ -11,3 +11,8 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging is a non-destructive operation, which merges the history of a main and another branch without changing the existing branches. Rebase takes the main branch and the other branch and rewrites both into one branch, the history is tampered with making it difficult to recover because new commits are made for each commit.
 Source: https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+
+Q4: What are you looking forward to this semester?
+
+Answer: Two things that I'm most excited for this semester is working with a large dataset in the main project and learning how to work with big data.
+
